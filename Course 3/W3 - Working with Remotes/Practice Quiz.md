@@ -11,8 +11,8 @@
 
 ### 3. Name two ways to avoid having to enter our password when retrieving and when pushing changes to the repo. (Check all that apply)
 
-Use a credential helper
-Create an SSH key-pair
+    Use a credential helper
+    Create an SSH key-pair
 
 ### 4. Name the command that gathers all the snapshots we've taken and sends them to the remote repository.
 
